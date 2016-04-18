@@ -6,7 +6,7 @@ We are excited to announce the worlds first Cycle.js conference in Copenhagen th
 
 We are organizing this conference to connect cyclists from around the world, for a time of tech talks and presentations, and making a space for focused contributions upon Cycle.js and its ecosystem.
 
-##Live Stream
+## Live Stream
 
 For those of you who are unable to attend CycleConf, we are providing live streaming of the main talks.
 
